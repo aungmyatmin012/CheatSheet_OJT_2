@@ -13,10 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Myat Min Thit/Downloads/lombok.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Myat Min Thit/Downloads/javax.servlet-api-4.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Myat Min Thit/Downloads/mysql-connector-j-8.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Myat Min Thit/Downloads/jbcrypt-0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Myat Min Thit/Downloads/jbcrypt-0.4 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/jbcrypt-0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/lombok-1.18.42 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/mysql-connector-j-9.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/apache-tomcat-9.0.113-windows-x64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/jstl-1.2 (1).jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

@@ -13,6 +13,7 @@ public class DBConnection {
     
      if(con != null) {
        System.out.println("Connection is working");
+       System.out.println("aa");
      }
   }
   
@@ -22,7 +23,7 @@ public class DBConnection {
       Class.forName("com.mysql.cj.jdbc.Driver");
       String db="jdbc:mysql://localhost:3306/cheatsheet_db";
       String user="root";
-      String password="179238";
+      String password="root";
       
       con=DriverManager.getConnection(db,user,password);
       System.out.println("Database connection is Oki!");
